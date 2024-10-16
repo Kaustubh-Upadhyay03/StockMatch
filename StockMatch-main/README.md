@@ -251,26 +251,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACTS -->
-
-## Contacts
-
-- Aryan Patel:
-  - Personal: aryanp862002@gmail.com
-  - School: patea156@mcmaster.ca
-
----
-
-- Martin Ivanov:
-  - Personal: martinivnv2002@gmail.com
-
----
-
-- Areez Visram:
-  - Personal: areez.visram@gmail.com
-
----
-
 Project Link: [https://github.com/Aryanpatel335/StockMatch](https://github.com/Aryanpatel335/StockMatch)
 
 Live Link: [https://stockmatch.netlify.app/](https://stockmatch.netlify.app/)
