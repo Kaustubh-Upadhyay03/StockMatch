@@ -172,7 +172,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repositories:
    ```sh
-   git clone https://github.com/Aryanpatel335/StockMatch.git
+   git clone https://github.com/Kaustubh-Upadhyay03/StockMatch.git
    ```
 2. Install dependencies for the Spring/Java application:
    ```sh
