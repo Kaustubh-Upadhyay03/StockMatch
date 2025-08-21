@@ -30,15 +30,6 @@
 
   <p align="center">
     StockMatch is an app that offers tailored stock recommendations based on user preferences, simplifying the search for ideal investment opportunities.
-    <br />
-    <a href="https://github.com/Aryanpatel335/StockMatch"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://stockmatch.netlify.app/">View Demo</a>
-    ·
-    <a href="https://github.com/Aryanpatel335/StockMatch/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Aryanpatel335/StockMatch/issues">Request Feature</a>
   </p>
 </div>
 
