@@ -251,8 +251,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Project Link: [https://github.com/Aryanpatel335/StockMatch](https://github.com/Aryanpatel335/StockMatch)
-
 Live Link: [https://stockmatch.netlify.app/](https://stockmatch.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
